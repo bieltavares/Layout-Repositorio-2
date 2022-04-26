@@ -50,7 +50,24 @@ footer{
 }
 
 .destaques-colunas{
+    width: 50%;
+    height: 500px;
+    float: left;
+    background-color: brown;
+    border: 1px solid black;
+}
+
+#jogos{
+    width: 100%;
+    height: auto;
+    float: left;
+    background-color: aqua;
+}
+
+.jogos-colunas{
     width: 25%;
-
-
+    height: 500px;
+    float: left;
+    background-color: chartreuse;
+    border: 1px solid black;
 }
