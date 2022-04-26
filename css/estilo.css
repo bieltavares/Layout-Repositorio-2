@@ -71,3 +71,24 @@ footer{
     background-color: chartreuse;
     border: 1px solid black;
 }
+
+/* Final da versão DESKTOP */
+
+/* Inicio da versão Mobile */
+
+@media only screen and (max-width: 700px) {
+
+#container{
+    width: 100%;
+}
+
+.destaques-colunas{
+    width: 50%;
+    height: 400px;
+}
+
+.jogos-colunas{
+    width: 100%;
+}
+
+}
